@@ -63,6 +63,8 @@
     });
 
     $(document).on("click", ".topicImage",
+        
+
 
         function(event){
 
